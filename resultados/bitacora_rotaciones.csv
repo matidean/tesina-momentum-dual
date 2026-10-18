@@ -1,0 +1,243 @@
+Fecha,Dias que dura,Composicion,Cambio
+2016-02-02,16,BIL 100%,-> a refugio
+2016-02-25,3,BIL 33% | XLP 33% | XLU 33%,"entran: XLP, XLU ; BIL 100%->33%"
+2016-03-01,35,XLP 33% | XLU 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2016-04-20,1,BIL 33% | XLP 33% | XLY 33%,salen: XLU ; -> a refugio
+2016-04-21,13,BIL 67% | XLY 33%,salen: XLP ; BIL 33%->67%
+2016-05-10,3,BIL 33% | XLP 33% | XLY 33%,entran: XLP ; BIL 67%->33%
+2016-05-13,14,BIL 67% | XLP 33%,salen: XLY ; BIL 33%->67%
+2016-06-03,25,BIL 33% | XLP 33% | XLU 33%,entran: XLU ; BIL 67%->33%
+2016-07-11,19,XLK 33% | XLP 33% | XLU 33%,entran: XLK ; <- sale de refugio
+2016-08-05,12,BIL 33% | XLK 33% | XLP 33%,salen: XLU ; -> a refugio
+2016-08-23,12,XLB 33% | XLK 33% | XLP 33%,entran: XLB ; <- sale de refugio
+2016-09-09,8,BIL 100%,"salen: XLB, XLK, XLP ; -> a refugio"
+2016-09-21,1,BIL 67% | XLU 33%,entran: XLU ; BIL 100%->67%
+2016-09-22,8,BIL 33% | XLK 33% | XLU 33%,entran: XLK ; BIL 67%->33%
+2016-10-04,19,BIL 67% | XLK 33%,salen: XLU ; BIL 33%->67%
+2016-10-31,3,BIL 33% | XLK 33% | XLU 33%,entran: XLU ; BIL 67%->33%
+2016-11-03,4,BIL 67% | XLU 33%,salen: XLK ; BIL 33%->67%
+2016-11-09,1,BIL 33% | XLI 33% | XLU 33%,entran: XLI ; BIL 67%->33%
+2016-11-10,2,BIL 33% | XLB 33% | XLI 33%,salen: XLU ; entran: XLB ; BIL 33%->33%
+2016-11-14,4,XLB 33% | XLF 33% | XLI 33%,entran: XLF ; <- sale de refugio
+2016-11-18,1,BIL 33% | XLF 33% | XLI 33%,salen: XLB ; -> a refugio
+2016-11-21,2,XLE 33% | XLF 33% | XLI 33%,entran: XLE ; <- sale de refugio
+2016-11-23,10,BIL 33% | XLF 33% | XLI 33%,salen: XLE ; -> a refugio
+2016-12-08,20,XLE 33% | XLF 33% | XLI 33%,entran: XLE ; <- sale de refugio
+2017-01-09,5,BIL 33% | XLF 33% | XLI 33%,salen: XLE ; -> a refugio
+2017-01-17,5,BIL 67% | XLI 33%,salen: XLF ; BIL 33%->67%
+2017-01-24,14,BIL 33% | XLB 33% | XLI 33%,entran: XLB ; BIL 67%->33%
+2017-02-13,25,XLB 33% | XLF 33% | XLI 33%,entran: XLF ; <- sale de refugio
+2017-03-21,23,BIL 67% | XLB 33%,"salen: XLF, XLI ; -> a refugio"
+2017-04-24,1,BIL 33% | XLB 33% | XLI 33%,entran: XLI ; BIL 67%->33%
+2017-04-25,22,XLB 33% | XLI 33% | XLK 33%,entran: XLK ; <- sale de refugio
+2017-05-25,10,BIL 33% | XLI 33% | XLK 33%,salen: XLB ; -> a refugio
+2017-06-09,43,XLF 33% | XLI 33% | XLK 33%,entran: XLF ; <- sale de refugio
+2017-08-10,5,BIL 33% | XLF 33% | XLK 33%,salen: XLI ; -> a refugio
+2017-08-17,17,BIL 67% | XLK 33%,salen: XLF ; BIL 33%->67%
+2017-09-12,4,BIL 33% | XLI 33% | XLK 33%,entran: XLI ; BIL 67%->33%
+2017-09-18,32,XLF 33% | XLI 33% | XLK 33%,entran: XLF ; <- sale de refugio
+2017-11-01,8,BIL 33% | XLF 33% | XLK 33%,salen: XLI ; -> a refugio
+2017-11-13,14,XLF 33% | XLK 33% | XLU 33%,entran: XLU ; <- sale de refugio
+2017-12-04,6,BIL 33% | XLF 33% | XLU 33%,salen: XLK ; -> a refugio
+2017-12-12,4,BIL 67% | XLF 33%,salen: XLU ; BIL 33%->67%
+2017-12-18,4,BIL 33% | XLF 33% | XLK 33%,entran: XLK ; BIL 67%->33%
+2017-12-22,5,BIL 67% | XLK 33%,salen: XLF ; BIL 33%->67%
+2018-01-02,1,BIL 33% | XLB 33% | XLK 33%,entran: XLB ; BIL 67%->33%
+2018-01-03,10,XLB 33% | XLI 33% | XLK 33%,entran: XLI ; <- sale de refugio
+2018-01-18,2,BIL 33% | XLI 33% | XLK 33%,salen: XLB ; -> a refugio
+2018-01-22,10,XLF 33% | XLI 33% | XLK 33%,entran: XLF ; <- sale de refugio
+2018-02-05,23,BIL 100%,"salen: XLF, XLI, XLK ; -> a refugio"
+2018-03-09,10,BIL 67% | XLK 33%,entran: XLK ; BIL 100%->67%
+2018-03-23,32,BIL 100%,salen: XLK ; BIL 67%->100%
+2018-05-09,18,BIL 33% | XLE 33% | XLK 33%,"entran: XLE, XLK ; BIL 100%->33%"
+2018-06-05,16,XLE 33% | XLK 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2018-06-27,10,BIL 33% | XLE 33% | XLY 33%,salen: XLK ; -> a refugio
+2018-07-12,24,XLE 33% | XLK 33% | XLY 33%,entran: XLK ; <- sale de refugio
+2018-08-15,23,BIL 33% | XLK 33% | XLY 33%,salen: XLE ; -> a refugio
+2018-09-18,4,XLI 33% | XLK 33% | XLY 33%,entran: XLI ; <- sale de refugio
+2018-09-24,5,BIL 33% | XLK 33% | XLY 33%,salen: XLI ; -> a refugio
+2018-10-01,3,XLK 33% | XLV 33% | XLY 33%,entran: XLV ; <- sale de refugio
+2018-10-04,2,BIL 33% | XLK 33% | XLV 33%,salen: XLY ; -> a refugio
+2018-10-08,3,BIL 67% | XLV 33%,salen: XLK ; BIL 33%->67%
+2018-10-11,35,BIL 100%,salen: XLV ; BIL 67%->100%
+2018-11-30,10,BIL 67% | XLV 33%,entran: XLV ; BIL 100%->67%
+2018-12-17,22,BIL 100%,salen: XLV ; BIL 67%->100%
+2019-01-18,4,BIL 67% | XLV 33%,entran: XLV ; BIL 100%->67%
+2019-01-25,3,BIL 33% | XLRE 33% | XLV 33%,entran: XLRE ; BIL 67%->33%
+2019-01-30,36,XLRE 33% | XLV 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2019-03-22,8,BIL 33% | XLRE 33% | XLV 33%,salen: XLY ; -> a refugio
+2019-04-03,9,XLK 33% | XLRE 33% | XLV 33%,entran: XLK ; <- sale de refugio
+2019-04-16,17,XLK 33% | XLRE 33% | XLY 33%,salen: XLV ; entran: XLY
+2019-05-10,1,BIL 33% | XLRE 33% | XLY 33%,salen: XLK ; -> a refugio
+2019-05-13,8,BIL 67% | XLRE 33%,salen: XLY ; BIL 33%->67%
+2019-05-23,10,BIL 33% | XLRE 33% | XLU 33%,entran: XLU ; BIL 67%->33%
+2019-06-07,40,XLP 33% | XLRE 33% | XLU 33%,entran: XLP ; <- sale de refugio
+2019-08-05,21,BIL 33% | XLRE 33% | XLU 33%,salen: XLP ; -> a refugio
+2019-09-04,37,XLP 33% | XLRE 33% | XLU 33%,entran: XLP ; <- sale de refugio
+2019-10-25,6,XLK 33% | XLRE 33% | XLU 33%,salen: XLP ; entran: XLK
+2019-11-04,1,BIL 33% | XLK 33% | XLU 33%,salen: XLRE ; -> a refugio
+2019-11-05,16,BIL 67% | XLK 33%,salen: XLU ; BIL 33%->67%
+2019-11-27,6,BIL 33% | XLC 33% | XLK 33%,entran: XLC ; BIL 67%->33%
+2019-12-06,26,XLC 33% | XLF 33% | XLK 33%,entran: XLF ; <- sale de refugio
+2020-01-15,14,XLC 33% | XLK 33% | XLU 33%,salen: XLF ; entran: XLU
+2020-02-05,8,BIL 33% | XLK 33% | XLU 33%,salen: XLC ; -> a refugio
+2020-02-18,5,XLC 33% | XLK 33% | XLU 33%,entran: XLC ; <- sale de refugio
+2020-02-25,1,BIL 67% | XLU 33%,"salen: XLC, XLK ; -> a refugio"
+2020-02-26,30,BIL 100%,salen: XLU ; BIL 67%->100%
+2020-04-08,1,BIL 67% | XLV 33%,entran: XLV ; BIL 100%->67%
+2020-04-09,2,BIL 33% | XLU 33% | XLV 33%,entran: XLU ; BIL 67%->33%
+2020-04-14,16,XLK 33% | XLU 33% | XLV 33%,entran: XLK ; <- sale de refugio
+2020-05-06,2,BIL 33% | XLK 33% | XLV 33%,salen: XLU ; -> a refugio
+2020-05-08,23,XLC 33% | XLK 33% | XLV 33%,entran: XLC ; <- sale de refugio
+2020-06-11,11,BIL 33% | XLC 33% | XLK 33%,salen: XLV ; -> a refugio
+2020-06-26,9,BIL 67% | XLK 33%,salen: XLC ; BIL 33%->67%
+2020-07-10,3,BIL 33% | XLC 33% | XLK 33%,entran: XLC ; BIL 67%->33%
+2020-07-15,38,XLC 33% | XLK 33% | XLV 33%,entran: XLV ; <- sale de refugio
+2020-09-08,22,BIL 33% | XLC 33% | XLK 33%,salen: XLV ; -> a refugio
+2020-10-08,14,XLC 33% | XLK 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2020-10-28,34,BIL 67% | XLC 33%,"salen: XLK, XLY ; -> a refugio"
+2020-12-16,17,XLC 33% | XLK 33% | XLY 33%,"entran: XLK, XLY ; <- sale de refugio"
+2021-01-12,9,BIL 33% | XLK 33% | XLY 33%,salen: XLC ; -> a refugio
+2021-01-26,26,XLC 33% | XLK 33% | XLY 33%,entran: XLC ; <- sale de refugio
+2021-03-04,4,BIL 67% | XLC 33%,"salen: XLK, XLY ; -> a refugio"
+2021-03-10,6,BIL 33% | XLB 33% | XLC 33%,entran: XLB ; BIL 67%->33%
+2021-03-18,11,BIL 67% | XLB 33%,salen: XLC ; BIL 33%->67%
+2021-04-05,2,BIL 33% | XLB 33% | XLY 33%,entran: XLY ; BIL 67%->33%
+2021-04-07,6,XLB 33% | XLC 33% | XLY 33%,entran: XLC ; <- sale de refugio
+2021-04-15,1,XLB 33% | XLK 33% | XLY 33%,salen: XLC ; entran: XLK
+2021-04-16,1,BIL 33% | XLB 33% | XLY 33%,salen: XLK ; -> a refugio
+2021-04-19,8,BIL 67% | XLB 33%,salen: XLY ; BIL 33%->67%
+2021-04-29,6,BIL 33% | XLB 33% | XLF 33%,entran: XLF ; BIL 67%->33%
+2021-05-07,25,XLB 33% | XLF 33% | XLI 33%,entran: XLI ; <- sale de refugio
+2021-06-14,3,BIL 33% | XLF 33% | XLI 33%,salen: XLB ; -> a refugio
+2021-06-17,1,BIL 67% | XLI 33%,salen: XLF ; BIL 33%->67%
+2021-06-18,6,BIL 100%,salen: XLI ; BIL 67%->100%
+2021-06-28,18,BIL 67% | XLC 33%,entran: XLC ; BIL 100%->67%
+2021-07-23,6,BIL 33% | XLC 33% | XLK 33%,entran: XLK ; BIL 67%->33%
+2021-08-02,4,BIL 67% | XLC 33%,salen: XLK ; BIL 33%->67%
+2021-08-06,2,BIL 33% | XLC 33% | XLF 33%,entran: XLF ; BIL 67%->33%
+2021-08-10,12,XLB 33% | XLC 33% | XLF 33%,entran: XLB ; <- sale de refugio
+2021-08-26,4,BIL 33% | XLB 33% | XLF 33%,salen: XLC ; -> a refugio
+2021-09-01,9,BIL 33% | XLF 33% | XLRE 33%,salen: XLB ; entran: XLRE ; BIL 33%->33%
+2021-09-15,3,XLE 33% | XLF 33% | XLRE 33%,entran: XLE ; <- sale de refugio
+2021-09-20,5,BIL 33% | XLE 33% | XLRE 33%,salen: XLF ; -> a refugio
+2021-09-27,16,BIL 67% | XLE 33%,salen: XLRE ; BIL 33%->67%
+2021-10-19,3,BIL 33% | XLE 33% | XLF 33%,entran: XLF ; BIL 67%->33%
+2021-10-22,18,XLE 33% | XLF 33% | XLRE 33%,entran: XLRE ; <- sale de refugio
+2021-11-17,1,BIL 33% | XLE 33% | XLRE 33%,salen: XLF ; -> a refugio
+2021-11-18,8,BIL 33% | XLK 33% | XLRE 33%,salen: XLE ; entran: XLK ; BIL 33%->33%
+2021-12-01,4,BIL 67% | XLK 33%,salen: XLRE ; BIL 33%->67%
+2021-12-07,19,BIL 33% | XLK 33% | XLRE 33%,entran: XLRE ; BIL 67%->33%
+2022-01-04,10,XLE 33% | XLK 33% | XLRE 33%,entran: XLE ; <- sale de refugio
+2022-01-19,31,BIL 67% | XLE 33%,"salen: XLK, XLRE ; -> a refugio"
+2022-03-04,8,BIL 33% | XLE 33% | XLU 33%,entran: XLU ; BIL 67%->33%
+2022-03-16,4,XLE 33% | XLU 33% | XLV 33%,entran: XLV ; <- sale de refugio
+2022-03-22,3,XLE 33% | XLF 33% | XLV 33%,salen: XLU ; entran: XLF
+2022-03-25,1,BIL 33% | XLE 33% | XLV 33%,salen: XLF ; -> a refugio
+2022-03-28,18,XLE 33% | XLRE 33% | XLV 33%,entran: XLRE ; <- sale de refugio
+2022-04-22,1,BIL 33% | XLE 33% | XLRE 33%,salen: XLV ; -> a refugio
+2022-04-25,2,BIL 67% | XLRE 33%,salen: XLE ; BIL 33%->67%
+2022-04-27,7,BIL 100%,salen: XLRE ; BIL 67%->100%
+2022-05-06,15,BIL 67% | XLE 33%,entran: XLE ; BIL 100%->67%
+2022-05-27,10,XLE 33% | XLU 33% | XLV 33%,"entran: XLU, XLV ; <- sale de refugio"
+2022-06-13,3,BIL 67% | XLE 33%,"salen: XLU, XLV ; -> a refugio"
+2022-06-16,28,BIL 100%,salen: XLE ; BIL 67%->100%
+2022-07-28,1,BIL 33% | XLP 33% | XLU 33%,"entran: XLP, XLU ; BIL 100%->33%"
+2022-07-29,22,XLE 33% | XLP 33% | XLU 33%,entran: XLE ; <- sale de refugio
+2022-08-30,15,BIL 33% | XLE 33% | XLU 33%,salen: XLP ; -> a refugio
+2022-09-21,2,BIL 67% | XLE 33%,salen: XLU ; BIL 33%->67%
+2022-09-23,9,BIL 100%,salen: XLE ; BIL 67%->100%
+2022-10-06,12,BIL 67% | XLE 33%,entran: XLE ; BIL 100%->67%
+2022-10-24,1,BIL 33% | XLE 33% | XLV 33%,entran: XLV ; BIL 67%->33%
+2022-10-25,29,XLE 33% | XLP 33% | XLV 33%,entran: XLP ; <- sale de refugio
+2022-12-06,22,BIL 33% | XLP 33% | XLV 33%,salen: XLE ; -> a refugio
+2023-01-09,3,BIL 67% | XLP 33%,salen: XLV ; BIL 33%->67%
+2023-01-12,3,BIL 33% | XLE 33% | XLP 33%,entran: XLE ; BIL 67%->33%
+2023-01-18,9,BIL 67% | XLE 33%,salen: XLP ; BIL 33%->67%
+2023-01-31,8,BIL 33% | XLB 33% | XLE 33%,entran: XLB ; BIL 67%->33%
+2023-02-10,5,BIL 67% | XLE 33%,salen: XLB ; BIL 33%->67%
+2023-02-17,25,BIL 100%,salen: XLE ; BIL 67%->100%
+2023-03-27,7,BIL 67% | XLP 33%,entran: XLP ; BIL 100%->67%
+2023-04-05,16,BIL 33% | XLP 33% | XLV 33%,entran: XLV ; BIL 67%->33%
+2023-04-28,13,BIL 67% | XLV 33%,salen: XLP ; BIL 33%->67%
+2023-05-17,2,XLC 33% | XLK 33% | XLV 33%,"entran: XLC, XLK ; <- sale de refugio"
+2023-05-19,12,BIL 33% | XLC 33% | XLK 33%,salen: XLV ; -> a refugio
+2023-06-07,42,XLC 33% | XLI 33% | XLK 33%,entran: XLI ; <- sale de refugio
+2023-08-08,1,BIL 33% | XLC 33% | XLI 33%,salen: XLK ; -> a refugio
+2023-08-09,4,XLC 33% | XLE 33% | XLI 33%,entran: XLE ; <- sale de refugio
+2023-08-15,3,BIL 33% | XLC 33% | XLE 33%,salen: XLI ; -> a refugio
+2023-08-18,9,BIL 67% | XLE 33%,salen: XLC ; BIL 33%->67%
+2023-08-31,14,BIL 33% | XLE 33% | XLK 33%,entran: XLK ; BIL 67%->33%
+2023-09-21,7,BIL 67% | XLE 33%,salen: XLK ; BIL 33%->67%
+2023-10-02,7,BIL 100%,salen: XLE ; BIL 67%->100%
+2023-10-11,11,BIL 67% | XLC 33%,entran: XLC ; BIL 100%->67%
+2023-10-26,8,BIL 100%,salen: XLC ; BIL 67%->100%
+2023-11-07,5,BIL 67% | XLK 33%,entran: XLK ; BIL 100%->67%
+2023-11-14,48,XLC 33% | XLK 33% | XLY 33%,"entran: XLC, XLY ; <- sale de refugio"
+2024-01-25,6,BIL 33% | XLC 33% | XLK 33%,salen: XLY ; -> a refugio
+2024-02-02,42,XLC 33% | XLK 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2024-04-04,6,BIL 33% | XLC 33% | XLY 33%,salen: XLK ; -> a refugio
+2024-04-12,5,BIL 67% | XLC 33%,salen: XLY ; BIL 33%->67%
+2024-04-19,14,BIL 100%,salen: XLC ; BIL 67%->100%
+2024-05-09,3,BIL 67% | XLF 33%,entran: XLF ; BIL 100%->67%
+2024-05-14,1,BIL 33% | XLF 33% | XLK 33%,entran: XLK ; BIL 67%->33%
+2024-05-15,44,XLC 33% | XLF 33% | XLK 33%,entran: XLC ; <- sale de refugio
+2024-07-19,3,BIL 33% | XLC 33% | XLF 33%,salen: XLK ; -> a refugio
+2024-07-24,8,BIL 67% | XLF 33%,salen: XLC ; BIL 33%->67%
+2024-08-05,14,BIL 100%,salen: XLF ; BIL 67%->100%
+2024-08-23,11,BIL 67% | XLF 33%,entran: XLF ; BIL 100%->67%
+2024-09-10,7,BIL 33% | XLF 33% | XLRE 33%,entran: XLRE ; BIL 67%->33%
+2024-09-19,1,XLC 33% | XLF 33% | XLRE 33%,entran: XLC ; <- sale de refugio
+2024-09-20,4,BIL 33% | XLC 33% | XLF 33%,salen: XLRE ; -> a refugio
+2024-09-26,4,XLC 33% | XLF 33% | XLK 33%,entran: XLK ; <- sale de refugio
+2024-10-02,5,BIL 33% | XLC 33% | XLF 33%,salen: XLK ; -> a refugio
+2024-10-09,8,XLC 33% | XLF 33% | XLK 33%,entran: XLK ; <- sale de refugio
+2024-10-21,6,BIL 33% | XLF 33% | XLK 33%,salen: XLC ; -> a refugio
+2024-10-29,9,XLC 33% | XLF 33% | XLK 33%,entran: XLC ; <- sale de refugio
+2024-11-11,22,XLC 33% | XLF 33% | XLI 33%,salen: XLK ; entran: XLI
+2024-12-12,2,BIL 33% | XLC 33% | XLF 33%,salen: XLI ; -> a refugio
+2024-12-16,1,XLC 33% | XLF 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2024-12-17,10,BIL 33% | XLC 33% | XLY 33%,salen: XLF ; -> a refugio
+2025-01-02,5,BIL 67% | XLC 33%,salen: XLY ; BIL 33%->67%
+2025-01-10,4,BIL 100%,salen: XLC ; BIL 67%->100%
+2025-01-16,2,BIL 67% | XLF 33%,entran: XLF ; BIL 100%->67%
+2025-01-21,3,BIL 33% | XLF 33% | XLU 33%,entran: XLU ; BIL 67%->33%
+2025-01-24,23,XLC 33% | XLF 33% | XLU 33%,entran: XLC ; <- sale de refugio
+2025-02-27,3,BIL 33% | XLF 33% | XLU 33%,salen: XLC ; -> a refugio
+2025-03-04,2,BIL 67% | XLU 33%,salen: XLF ; BIL 33%->67%
+2025-03-06,40,BIL 100%,salen: XLU ; BIL 67%->100%
+2025-05-02,2,BIL 33% | XLC 33% | XLF 33%,"entran: XLC, XLF ; BIL 100%->33%"
+2025-05-06,56,XLC 33% | XLF 33% | XLU 33%,entran: XLU ; <- sale de refugio
+2025-07-28,5,BIL 33% | XLC 33% | XLF 33%,salen: XLU ; -> a refugio
+2025-08-04,1,XLC 33% | XLF 33% | XLU 33%,entran: XLU ; <- sale de refugio
+2025-08-05,6,BIL 33% | XLC 33% | XLF 33%,salen: XLU ; -> a refugio
+2025-08-13,41,XLC 33% | XLF 33% | XLY 33%,entran: XLY ; <- sale de refugio
+2025-10-10,2,BIL 100%,"salen: XLC, XLF, XLY ; -> a refugio"
+2025-10-14,8,BIL 67% | XLU 33%,entran: XLU ; BIL 100%->67%
+2025-10-24,2,BIL 33% | XLK 33% | XLU 33%,entran: XLK ; BIL 67%->33%
+2025-10-28,15,BIL 67% | XLK 33%,salen: XLU ; BIL 33%->67%
+2025-11-18,5,BIL 100%,salen: XLK ; BIL 67%->100%
+2025-11-25,4,BIL 67% | XLV 33%,entran: XLV ; BIL 100%->67%
+2025-12-02,3,BIL 100%,salen: XLV ; BIL 67%->100%
+2025-12-05,3,BIL 67% | XLC 33%,entran: XLC ; BIL 100%->67%
+2025-12-10,25,BIL 33% | XLC 33% | XLI 33%,entran: XLI ; BIL 67%->33%
+2026-01-16,6,BIL 67% | XLI 33%,salen: XLC ; BIL 33%->67%
+2026-01-27,2,BIL 33% | XLI 33% | XLK 33%,entran: XLK ; BIL 67%->33%
+2026-01-29,4,XLC 33% | XLI 33% | XLK 33%,entran: XLC ; <- sale de refugio
+2026-02-04,1,XLC 33% | XLE 33% | XLI 33%,salen: XLK ; entran: XLE
+2026-02-05,4,BIL 33% | XLE 33% | XLI 33%,salen: XLC ; -> a refugio
+2026-02-11,16,XLB 33% | XLE 33% | XLI 33%,entran: XLB ; <- sale de refugio
+2026-03-06,4,BIL 33% | XLE 33% | XLI 33%,salen: XLB ; -> a refugio
+2026-03-12,19,BIL 67% | XLE 33%,salen: XLI ; BIL 33%->67%
+2026-04-09,2,BIL 33% | XLE 33% | XLI 33%,entran: XLI ; BIL 67%->33%
+2026-04-13,1,XLE 33% | XLI 33% | XLK 33%,entran: XLK ; <- sale de refugio
+2026-04-14,24,BIL 33% | XLI 33% | XLK 33%,salen: XLE ; -> a refugio
+2026-05-18,1,XLE 33% | XLI 33% | XLK 33%,entran: XLE ; <- sale de refugio
+2026-05-19,18,BIL 33% | XLE 33% | XLK 33%,salen: XLI ; -> a refugio
+2026-06-15,22,BIL 33% | XLI 33% | XLK 33%,salen: XLE ; entran: XLI ; BIL 33%->33%
+2026-07-17,7,BIL 33% | XLE 33% | XLI 33%,salen: XLK ; entran: XLE ; BIL 33%->33%
+2026-07-28,1,XLE 33% | XLI 33% | XLV 33%,entran: XLV ; <- sale de refugio
+2026-07-29,4,BIL 33% | XLE 33% | XLV 33%,salen: XLI ; -> a refugio
+2026-08-04,18,XLE 33% | XLI 33% | XLV 33%,entran: XLI ; <- sale de refugio
+2026-08-28,8,BIL 33% | XLE 33% | XLV 33%,salen: XLI ; -> a refugio
+2026-09-10,7,BIL 67% | XLE 33%,salen: XLV ; BIL 33%->67%

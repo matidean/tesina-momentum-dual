@@ -1,0 +1,6 @@
+Estrategia,Expo. acciones,Ret. total,CAGR,Volatilidad,Sharpe,Sortino,Max Drawdown,Calmar
+SPY (Buy & Hold),100%,366.5%, 15.6%, 17.7%, 0.91, 1.10,-33.7%, 0.46
+Estrategia completa,67%, 17.9%,  1.6%, 10.8%, 0.20, 0.23,-18.1%, 0.09
+Top 3 sin filtro (siempre invertido),100%,116.4%,  7.5%, 16.9%, 0.52, 0.62,-32.2%, 0.23
+Exposicion similar dinamica (en SPY),67%, 76.4%,  5.5%, 10.1%, 0.58, 0.66,-25.8%, 0.21
+Exposicion estatica 67% SPY / 33% BIL,67%,212.5%, 11.3%, 11.3%, 1.01, 1.21,-22.3%, 0.51
